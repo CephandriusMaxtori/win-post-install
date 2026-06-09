@@ -34,7 +34,7 @@ Runs entirely in your browser — no installation required.
 
 ## Features
 
-- **115 Software Applications:** Curated apps across 13 categories  
+- **116 Software Applications:** Curated apps across 13 categories  
 - **80 System Configurations:** Performance, privacy, UI, gaming tweaks  
 - **Cleanup Tools:** Remove bloatware safely  
 - **One-Click Script Generation:** Ready-to-run batch file  
